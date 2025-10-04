@@ -1,2 +1,2 @@
-# NT106_Lab01_24520054_NguyenChieuAn
+# NT106_Lab01
 Mã nguồn bài tập NT106
