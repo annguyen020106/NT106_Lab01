@@ -1,6 +1,6 @@
 # NT106_Lab01
 MÃ NGUỒN BÀI TẬP NT106_LAB01
-_Danh sách bài tập:
+  Danh sách bài tập:
   + Bài 01 – Tính tổng 2 số nguyên
     - Nhập 2 số nguyên.
     - Kiểm tra hợp lệ (MessageBox nếu không phải số nguyên).
