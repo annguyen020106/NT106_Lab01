@@ -1,2 +1,36 @@
 # NT106_Lab01
-Mã nguồn bài tập NT106
+MÃ NGUỒN BÀI TẬP NT106_LAB01
+Danh sách bài tập:
+  + Bài 01 – Tính tổng 2 số nguyên
+    - Nhập 2 số nguyên.
+    - Kiểm tra hợp lệ (MessageBox nếu không phải số nguyên).
+  + Bài 02 – Số lớn nhất, nhỏ nhất
+    - Nhập 3 số.
+    - Hiển thị số lớn nhất, nhỏ nhất.
+  + Bài 03 – Đọc số
+    - Nhập số từ 0–9, hiển thị bằng chữ.
+  + Bài 03.1 – Đọc số nâng cao
+    - Nhập số tối đa 12 chữ số, hiển thị bằng chữ (ví dụ: 123456 → “Một trăm hai mươi ba ngàn, bốn trăm năm mươi sáu”).
+  + Bài 04 – Quản lý phòng vé
+    - Hỗ trợ rạp phim: phân phối vé, tính tiền.
+    - Rạp có 3 phòng, các chỗ ngồi và giá vé khác nhau (vé vớt, thường, VIP).
+    - Kiểm tra vé đã mua hay chưa.
+    - Hiển thị thông tin khách hàng, vé, phòng chiếu, tổng tiền.
+  + Bài 05 – Tính toán với 2 số
+    - Nhập 2 số A, B.
+    - Tính bảng cửu chương B – A.
+    - Tính (A – B)!.
+    - Tính tổng: S = A1 + A2 + ... + AB.
+  + Bài 06 – Cung hoàng đạo
+    - Nhập ngày/tháng/năm sinh.
+    - Hiển thị cung hoàng đạo.
+  + Bài 07 – Xử lý mảng điểm sinh viên
+    - Nhập điểm dạng mảng 1 chiều, đầu mảng là họ tên.
+    - Kiểm tra tính hợp lệ.
+    - Xuất điểm theo môn, tính trung bình.
+    - Tìm môn cao/ thấp nhất, số môn đậu/ không đậu.
+    - Xếp loại: Giỏi, Khá, TB, Yếu, Kém dựa trên ĐTB và ràng buộc.
+  + Bài 08 – Hôm nay ăn gì?
+    - Nhập danh sách món ăn ưa thích.
+    - Chọn ngẫu nhiên 1 món cho “hôm nay ăn gì”.
+    - Cho phép thêm món mới vào danh sách.
