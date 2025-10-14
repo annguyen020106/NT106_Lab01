@@ -1,7 +1,8 @@
 # Lab 01 – Introduction to C# Winform Application
-> **Môn học:** Lập Trình Mạng Căn Bản  
-> **Sinh viên thực hiện:** 24520054 - Nguyễn Chiêu Ân  
-> **Giảng viên hướng dẫn:** Lê Minh Khánh Hội 
+> **Môn học:**  Lập Trình Mạng Căn Bản
+> **Lớp:**      NT106.Q14.1 
+> **Sinh viên thực hiện:**   Nguyễn Chiêu Ân **- MSSV:** 24520054 
+> **Giảng viên hướng dẫn:**  Lê Minh Khánh Hội 
 
 ---
 
