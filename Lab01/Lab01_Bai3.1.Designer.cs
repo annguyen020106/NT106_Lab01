@@ -93,8 +93,9 @@
             // TextBox_KQ
             // 
             TextBox_KQ.Location = new Point(125, 210);
+            TextBox_KQ.Multiline = true;
             TextBox_KQ.Name = "TextBox_KQ";
-            TextBox_KQ.Size = new Size(395, 27);
+            TextBox_KQ.Size = new Size(395, 66);
             TextBox_KQ.TabIndex = 27;
             // 
             // TextBox_So
