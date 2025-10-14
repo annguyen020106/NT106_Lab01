@@ -1,13 +1,18 @@
 # Lab 01 – Introduction to C# Winform Application
-> **Môn học:**  Lập Trình Mạng Căn Bản
-> **Lớp:**      NT106.Q14.1 
-> **Sinh viên thực hiện:**   Nguyễn Chiêu Ân **- MSSV:** 24520054 
+> **Môn học:** Lập Trình Mạng Căn Bản
+> **Lớp:** NT106.Q14.1
+> **MSSV:** 24520054
+> **Sinh viên thực hiện:**   Nguyễn Chiêu Ân 
 > **Giảng viên hướng dẫn:**  Lê Minh Khánh Hội 
 
 ---
 
 ## Tổng quan các bài tập
 
+
+### Trang chủ - Chứa cả 9 bài tập
+- Chọn bài tập muốn sử dụng -> màn hình sẽ chuyên sang bài tập tương ứng
+  
 ### Bài 01 – Tính tổng 2 số nguyên
 - Nhập 2 số nguyên.  
 - Kiểm tra hợp lệ (hiển thị MessageBox nếu không phải số nguyên).
@@ -50,7 +55,7 @@
 - Nhập danh sách món ăn ưa thích.  
 - Chọn ngẫu nhiên 1 món cho “hôm nay ăn gì”.  
 - Cho phép thêm món mới vào danh sách.
-
+ 
 ---
 
 **Ngôn ngữ:** C#  
