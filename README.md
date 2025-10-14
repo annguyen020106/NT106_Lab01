@@ -2,8 +2,8 @@
 > **Môn học:** Lập Trình Mạng Căn Bản
 > **Lớp:** NT106.Q14.1
 > **MSSV:** 24520054
-> **Sinh viên thực hiện:**   Nguyễn Chiêu Ân 
-> **Giảng viên hướng dẫn:**  Lê Minh Khánh Hội 
+> **Sinh viên thực hiện:** Nguyễn Chiêu Ân 
+> **Giảng viên hướng dẫn:** Lê Minh Khánh Hội 
 
 ---
 
